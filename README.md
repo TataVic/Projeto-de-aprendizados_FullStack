@@ -1,2 +1,2 @@
-# Projeto-de-aprendizados-.
-São projetos em html - nível básico
+# Projeto-de-aprendizados
+São projetos em HTML, CSS e JavaScript
